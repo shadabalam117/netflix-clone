@@ -82,18 +82,3 @@ This project is open source and free to use for personal and educational purpose
 * Fonts via [Google Fonts](https://fonts.google.com/).
 
 ````
-
----
-
-### ✅ Next Steps
-
-1. Save this content in a file named `README.md`
-2. Push it to your GitHub repo:
-
-```bash
-git add README.md
-git commit -m "Add custom README"
-git push
-````
-
-Let me know if you’d like me to add badges, more screenshots, or a portfolio-ready summary section!
