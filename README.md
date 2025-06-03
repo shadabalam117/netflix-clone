@@ -9,8 +9,12 @@ A clean and responsive Netflix landing page clone built using just **HTML** and 
 
 ## 📸 Screenshots
 
-![Hero Section](images/bg.jpg)  
-<!-- You can add more screenshots by uploading them and linking here -->
+A few snapshots of the Netflix Clone at different scroll points (desktop view):
+
+![Screenshot 1](images/capture.png)  
+![Screenshot 2](images/capture1.png)  
+![Screenshot 3](images/capture2.png)  
+![Screenshot 4](images/capture3.png)
 
 ---
 
